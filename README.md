@@ -7,7 +7,7 @@ This is an interactive HR analytics dashboard created using Tableau Public. It p
 
 ## Tableau Public Link
 
-You can access the interactive dashboard on Tableau Public by clicking [here](<insert Tableau Public link>).
+You can access the interactive dashboard on Tableau Public by clicking [here](https://public.tableau.com/app/profile/ali.yaqteen/viz/HRAnalyticsDashboard_16859040858250/HRAnalyticsDashboard?publish=yes).
 
 ## Dashboard Features
 
