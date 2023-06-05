@@ -3,6 +3,7 @@
 # HR Analytics Dashboard
 
 This is an interactive HR analytics dashboard created using Tableau Public. It provides valuable insights into various aspects of human resources, such as employee count, attrition count, attrition rate, active employees, and average age. The dashboard visualizes key metrics and trends to help stakeholders make data-driven decisions and understand HR patterns.
+![Alt Text](image_url)
 
 ## Tableau Public Link
 
